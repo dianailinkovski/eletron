@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/flash
+electron-builder.yml
+package.json
+readme.txt
